@@ -6,3 +6,4 @@
 - [Backend:: High Level Design](https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
 - [Backend:: 5 Microservice Patterns](https://youtu.be/tiHKefWOyrY?si=ihqBT5-gQybGhqSE)
 - [Backend:: API Gateway](https://youtu.be/dkgxvnk8cWw?si=Y5UHBmrzZFOdbFzP)
+- [Backend:: Repository Pattern GoLang(Structuring Apps)](https://youtu.be/eE8nqgryW_8?si=xFyHdHGMbRqXV_PE)
