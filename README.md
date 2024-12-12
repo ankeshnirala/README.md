@@ -7,4 +7,4 @@
 - [Backend:: 5 Microservice Patterns](https://youtu.be/tiHKefWOyrY?si=ihqBT5-gQybGhqSE)
 - [Backend:: API Gateway](https://youtu.be/dkgxvnk8cWw?si=Y5UHBmrzZFOdbFzP)
 - [Backend:: Repository Pattern GoLang(Structuring Apps)](https://youtu.be/eE8nqgryW_8?si=xFyHdHGMbRqXV_PE)
-- [Backend:: GO Concurrency](https://antonz.org/go-concurrency/)
+- [Backend:: GoLang Concurrency](https://antonz.org/go-concurrency/)
